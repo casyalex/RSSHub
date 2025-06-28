@@ -26721,7 +26721,8 @@ export default {
       "/blog/:user": {
         "path": "/blog/:user",
         "categories": [
-          "blog"
+          "blog",
+          "popular"
         ],
         "example": "/csdn/blog/csdngeeknews",
         "parameters": {
@@ -41830,8 +41831,7 @@ export default {
       "/citations/:id": {
         "path": "/citations/:id",
         "categories": [
-          "journal",
-          "popular"
+          "journal"
         ],
         "example": "/google/citations/mlmE4JMAAAAJ",
         "parameters": {
