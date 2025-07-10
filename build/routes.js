@@ -33797,8 +33797,7 @@ export default {
       "/:endpoint": {
         "path": "/:endpoint",
         "categories": [
-          "traditional-media",
-          "popular"
+          "traditional-media"
         ],
         "view": 0,
         "example": "/economist/latest",
@@ -46785,7 +46784,8 @@ export default {
     "apiRoutes": {},
     "url": "sh.gov.cn",
     "categories": [
-      "government"
+      "government",
+      "popular"
     ],
     "description": "",
     "lang": "zh-CN",
